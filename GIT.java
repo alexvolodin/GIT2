@@ -8,5 +8,7 @@ public class GIT {
         System.out.println("Update1");
 
         System.out.println("AGAIN UPDATE");
+
+        // Nu ni figa sebe!
     }
 }
